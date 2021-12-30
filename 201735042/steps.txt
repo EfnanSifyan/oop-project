@@ -1,0 +1,163 @@
+kullanıcı girişi yapın
+2 Girin
+1 Girin (add item)
+2 Girin
+1 Girin (add item)
+2 Girin
+1 Girin (add item)
+2 Girin
+1 Girin (add item)
+2 Girin
+2 Girin (stok iÅŸlemi Ã§Ä±ktÄ±sÄ±)
+2 Girin
+3 Girin (Category)
+3 Girin (Tip olarak bot)
+2 Girin
+2 Girin (stok iÅŸlemi Ã§Ä±ktÄ±sÄ±)
+1 Girin
+2 Girin 
+3 Girin (Category)
+3 Girin (Tip olarak bot)
+0 Girin
+********************************************************
+Write quit to quit.
+     - LOGIN -
+ Username: 
+efnansifyan
+ Password: 
+349243
+Enter 0 to log off
+Welcome efnansifyan, Which operation do you want to do:
+ 1-Sell 
+2-Stock
+2
+Enter 0 to log out
+ --- OPTIONS ---
+1- Add Item to stock
+2- Print stock operation history
+3- Print stock by its category
+1
+Enter 0 to log off
+Welcome efnansifyan, Which operation do you want to do:
+ 1-Sell 
+2-Stock
+2
+Enter 0 to log out
+ --- OPTIONS ---
+1- Add Item to stock
+2- Print stock operation history
+3- Print stock by its category
+1
+Enter 0 to log off
+Welcome efnansifyan, Which operation do you want to do:
+ 1-Sell 
+2-Stock
+2
+Enter 0 to log out
+ --- OPTIONS ---
+1- Add Item to stock
+2- Print stock operation history
+3- Print stock by its category
+1
+Enter 0 to log off
+Welcome efnansifyan, Which operation do you want to do:
+ 1-Sell 
+2-Stock
+2
+Enter 0 to log out
+ --- OPTIONS ---
+1- Add Item to stock
+2- Print stock operation history
+3- Print stock by its category
+1
+Enter 0 to log off
+Welcome efnansifyan, Which operation do you want to do:
+ 1-Sell 
+2-Stock
+2
+Enter 0 to log out
+ --- OPTIONS ---
+1- Add Item to stock
+2- Print stock operation history
+3- Print stock by its category
+2
+
+
+Nike Boot is added to the stock
+Lumberjack is added to the stock
+Nike Sweater is added to the stock
+Levi's is added to the stock
+
+Enter 0 to log off
+Welcome efnansifyan, Which operation do you want to do:
+ 1-Sell 
+2-Stock
+2
+Enter 0 to log out
+ --- OPTIONS ---
+1- Add Item to stock
+2- Print stock operation history
+3- Print stock by its category
+3
+Enter a shoe type:
+ 1-Sports
+2-Sneaker
+3-Boots
+3
+0-
+		Boots--> Nike Boot ---- 100
+1-
+		Boots--> Lumberjack ---- 100
+Enter 0 to log off
+Welcome efnansifyan, Which operation do you want to do:
+ 1-Sell 
+2-Stock
+2
+Enter 0 to log out
+ --- OPTIONS ---
+1- Add Item to stock
+2- Print stock operation history
+3- Print stock by its category
+2
+
+
+Nike Boot is added to the stock
+Lumberjack is added to the stock
+Nike Sweater is added to the stock
+Levi's is added to the stock
+Nike Boot is searched
+Lumberjack is searched
+
+Enter 0 to log off
+Welcome efnansifyan, Which operation do you want to do:
+ 1-Sell 
+2-Stock
+1
+A customer just bought 10 amounts of Nike Boot
+Enter 0 to log off
+Welcome efnansifyan, Which operation do you want to do:
+ 1-Sell 
+2-Stock
+2
+Enter 0 to log out
+ --- OPTIONS ---
+1- Add Item to stock
+2- Print stock operation history
+3- Print stock by its category
+3
+Enter a shoe type:
+ 1-Sports
+2-Sneaker
+3-Boots
+3
+0-
+		Boots--> Nike Boot ---- 90
+1-
+		Boots--> Lumberjack ---- 100
+Enter 0 to log off
+Welcome efnansifyan, Which operation do you want to do:
+ 1-Sell 
+2-Stock
+0
+
+Process finished with exit code 0
